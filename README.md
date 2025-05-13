@@ -1,29 +1,31 @@
-# 📚 Alura Books  
+# 📚 AluraBooks
 
-Bem-vindo ao **Alura Books**, um e-commerce de livros voltado para programação e tecnologia! 🚀  
+Welcome to **AluraBooks**, an e-commerce project focused on programming and tech books! 🚀  
 
-## 🛠️ Tecnologias utilizadas  
+## 🛠️ Technologies Used
 
-- 🏗️ **HTML & CSS** – Estrutura e estilização inicial  
-- 🎨 **Sass** – Estilos avançados e organização  
-- ⚛️ **React** – Para transformar a aplicação em uma SPA dinâmica  
-- 🔧 **Back-end (a definir)** – Em breve  
+- 🏗️ **HTML & CSS** – Initial structure and styling  
+- 🎨 **Sass** – For advanced styles and better organization  
+- ⚛️ **React** – To turn it into a dynamic SPA  
+- 🔧 **Back-end (coming soon)** – Planned for future development  
 
-## 📌 Status do projeto  
+## 📌 Project Status
 
-🔥 **Em desenvolvimento** – O projeto começou como um site estático e está sendo expandido para uma aplicação Full Stack.  
+🔥 **In progress** – Started as a static site, now evolving into a full-stack application.
 
-✅ **O que já foi feito:**  
-- Estruturação inicial com HTML e CSS  
-- Layout responsivo para diferentes dispositivos  
+✅ **Completed so far:**  
+- Initial layout with HTML and CSS  
+- Responsive design for multiple devices  
 
-🛠️ **O que está em andamento:**  
-- Migração para React  
-- Implementação de funcionalidades interativas  
+🛠️ **Currently working on:**  
+- Migrating to React  
+- Adding interactive features  
 
-📌 **Próximos passos:**  
-- Criar um back-end para gerenciar produtos e pedidos  
-- Implementar sistema de login e carrinho de compras  
+📍 **Next steps:**  
+- Build a back-end to manage products and orders  
+- Add login system and shopping cart  
 
-## 🚀 Link do projeto
-Você pode ver o projeto [neste link](https://alurabooks-zeta-flame.vercel.app/)!
+## 🚀 Live Preview
+
+You can check it out here:  
+🔗 [https://alurabooks-zeta-flame.vercel.app/](https://alurabooks-zeta-flame.vercel.app/)
